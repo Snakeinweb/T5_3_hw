@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "T5_3_hw", "T5_3_hw.pyproj", "{0E642AE4-DCAD-4128-ACB9-91CCD4F1949C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E642AE4-DCAD-4128-ACB9-91CCD4F1949C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E642AE4-DCAD-4128-ACB9-91CCD4F1949C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7B581C7-71AE-4147-B856-35068F6BDB79}
+	EndGlobalSection
+EndGlobal
