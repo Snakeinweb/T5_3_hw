@@ -1,4 +1,5 @@
-﻿
+﻿# https://github.com/Snakeinweb/T5_3_hw
+
 invest = float(input('Сумма инвестиций: ')) 
 mike = float(input('У Майка: '))
 ivan = float(input('У Ивана: '))
